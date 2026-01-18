@@ -34,7 +34,7 @@
 ---
 
 ### 📈 GitHub Stats
-![Geethika's GitHub stats](https://github-readme-stats.vercel.app/api?username=DGPiumal&show_icons=true&theme=radical)
+![Geethika's GitHub stats](dg-piumal-c0t68k8ly-dgpiumals-projects.vercel.app)
 
 ---
 
