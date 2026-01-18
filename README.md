@@ -34,7 +34,7 @@
 ---
 
 ### 📈 GitHub Stats
-![Geethika's GitHub stats](dg-piumal-c0t68k8ly-dgpiumals-projects.vercel.app)
+![Geethika's GitHub stats](dg-piumal-aryt4rl0e-dgpiumals-projects.vercel.app)
 
 ---
 
