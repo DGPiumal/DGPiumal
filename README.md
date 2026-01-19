@@ -2,7 +2,7 @@
   <tr>
     <td>
       <h1>Hi there, I'm Geethika Piumal 👋</h1>
-      <p>I am a 3rd-year Computer Science undergraduate at the <b>University of Peradeniya</b>. I am an aspiring <b>Network Engineer</b> with a passion for building connected systems and automating network tasks using Python.</p>
+      <p>I am a 3rd-year Computer Science(Hons) undergraduate at the <b>University of Peradeniya</b>. I am an aspiring <b>Network Engineer</b> with a passion for building connected systems and automating network tasks using Python.</p>
       <ul>
         <li>🎯 <b>Current Focus:</b> Strengthening my knowledge in Network Analysis and IoT integrations.</li>
         <li>🚀 <b>Past Experience:</b> Developed web applications using Firebase and worked on various Arduino-based hardware projects.</li>
